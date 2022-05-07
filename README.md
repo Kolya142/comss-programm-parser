@@ -2,7 +2,7 @@
 установка(ubuntu):
   ```linux
 apt update
-apt install python3 && apt install git && apt install python3-pip
+apt install python3 && apt install gitsome && apt install python3-pip
 pip3 install requests
 pip3 install beautifulsoup4
 gh repo clone Kolya142/comss-programm-parser
